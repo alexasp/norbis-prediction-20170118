@@ -26,7 +26,7 @@ Use Git Bash as your terminal for the remainder of this guide.
 ### Everybody
 Install AWS CLI by typing the following in your terminal:
 
-    sudo pip install awscli
+    pip install awscli
 
 **If on a Mac** type this instead:
 
