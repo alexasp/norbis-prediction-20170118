@@ -1,8 +1,8 @@
 # Installation Guide
 
-For this course we will be using Amazon Web Services ([AWS](https://aws.amazon.com/products/)). AWS provide on-demand computing facilities. Most notably they provide servers with the powerfull [NVIDIA Tesla K80](http://www.nvidia.com/object/tesla-k80.html) graphics cards, which we will be using for this course.
+For this course we will be using Amazon Web Services ([AWS](https://aws.amazon.com/products/)). AWS provide on-demand computing facilities. Most notably they provide servers with the powerful [NVIDIA Tesla K80](http://www.nvidia.com/object/tesla-k80.html) graphics cards, which we will be using for this course.
 
-Most of the technical aspects have been handled ahead of time, requiring only minimal setup on your part. If you would like to dig deeper or get the software running on your own computer a list of resources have been currated in the end of this guide.
+Most of the technical aspects have been handled ahead of time, requiring only minimal setup on your part. If you would like to dig deeper or get the software running on your own computer a list of resources have been curated in the end of this guide.
 
 **SECURITY WARNING**
 
