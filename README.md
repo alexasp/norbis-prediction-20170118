@@ -31,6 +31,8 @@ Install AWS CLI by typing the following in your terminal:
 **If on a Mac** type this instead:
 
     sudo pip install awscli --ignore-installed six
+    
+You may need to install pip. If so, [follow these instructions](https://pip.pypa.io/en/stable/installing/).
 
 If you run into trouble with the installation, please consult [this site](http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-with-pip).
 
