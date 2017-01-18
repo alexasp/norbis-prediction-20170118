@@ -82,12 +82,14 @@ We have now started a jupyter server, which is hosted via the AWS server. View t
 
     https://<publicIP>:8888
 
+We have had issues using Safari browser with Jupyter notebook that has SSL issues in the past, so if you keep seeing "Connecting to kernel" status but no successful connection, try using a different browser like Firefox or Chrome.
+
 If you have multiple instances of Jupyter running (or other processes using your ports) the `8888` might be a different number. Check the output in the terminal if the above doens't work.
 We have a self-signed certificate, so your browser will most likely come with a security complaint. Click 'advanced' (or something similar) and click 'proceed'.
 
 The password is `42`.
 
-You should now see an overview of the course material. Enjoy!
+You should now see an overview of the course material. When working with tensorflow, only run the tensorflow exercises in each folder labelled week-x. No installation or setup is needed. Enjoy!
 
 ## After the course
 
