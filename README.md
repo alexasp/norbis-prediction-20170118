@@ -24,6 +24,8 @@ Most of the installation settings aren't that important, so just choose the defa
 Use Git Bash as your terminal for the remainder of this guide.
 
 ### Everybody
+You may need to install pip. If the commands in this section fail due to pip missing, [follow these instructions](https://pip.pypa.io/en/stable/installing/).
+
 Install AWS CLI by typing the following in your terminal:
 
     pip install awscli
@@ -31,8 +33,6 @@ Install AWS CLI by typing the following in your terminal:
 **If on a Mac** type this instead:
 
     sudo pip install awscli --ignore-installed six
-    
-You may need to install pip. If so, [follow these instructions](https://pip.pypa.io/en/stable/installing/).
 
 If you run into trouble with the installation, please consult [this site](http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-with-pip).
 
